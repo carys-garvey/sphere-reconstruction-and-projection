@@ -19,18 +19,6 @@ from tkinter.filedialog import askopenfilename, askopenfilenames
 from dataclasses import dataclass, field
 
 '''
-Big idea with the new OOP approach:
-
-one object = one dataset
-many objects = a collection of datasets
-pipeline = the thing that does work on datasets
-
-ObjectImageSet: represents one object and its six views
-ImageCollection: finds files and groups them by prefix
-ProjectionPipeline: runs the actual processing for one object or many objects
-'''
-
-'''
 # data model
 ObjectImageSet
 ImageCollection
