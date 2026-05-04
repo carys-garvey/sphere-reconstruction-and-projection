@@ -24,12 +24,26 @@ The pipeline provides both a practical tool for surface visualization and a comp
 
 ## Example Results
 
-*(insert your best images here)*
+<h3 align="center">Pipeline Overview</h3>
+<p align="center">
+  <img src="gitImages/pipelineprocess.png" width="700"/>
+</p>
 
-- 3D reconstructed sphere
-- Stereographic projection
-- Lambert cylindrical projection
-- Projection comparison
+<h3 align="center">Projection Comparison</h3>
+<p align="center">
+  <img src="gitImages/fig_projection_comparison.png" width="700"/>
+</p>
+
+<h3 align="center">Stereographic Projections of Various Objects</h3>
+<p align="center">
+  <img src="gitImages/collage.png" width="700"/>
+</p>
+
+These examples demonstrate:
+- 3D spherical reconstruction from multi-view images  
+- Stereographic projection (angle-preserving)  
+- Lambert cylindrical projection (area-preserving)  
+- Trade-offs between different map projections  
 
 ---
 
