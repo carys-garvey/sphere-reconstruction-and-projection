@@ -50,6 +50,7 @@ These examples demonstrate:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/spherical-surface-reconstruction.git
-cd spherical-surface-reconstruction
+git clone https://github.com/carys-garvey/sphere-reconstruction-and-projection.git
+cd sphere-reconstruction-and-projection
 pip install -r requirements.txt
+```
